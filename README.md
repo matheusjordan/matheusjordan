@@ -39,8 +39,8 @@
 
 **2.** Angular is my favorite Framework.
 
-**3.** Love Html and Css.
+**3.** Love Mobile and Web Development.
 
-**4.** Bitcoin investor and solidity learner.
+**4.** Like Bitcoin and DeFi.
 
-**4.** Defi is the present.
+**5.** Reading books from Rothbard and Mises.
