@@ -1,4 +1,5 @@
-## Matheus Jordan - Fullstack and Mobile Developer
+## Matheus Jordan - Fullstack and Mobile Developer - @matheusjordan.dev - Dev Arretado
+
  <div>
   <a href="https://github.com/matheusjordan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjordan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -32,3 +33,14 @@
   <a href="https://www.linkedin.com/in/matheus-jordan-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+ 
+ ### My "Fun" Facts
+**1.** Javascript is my favorite Language.
+
+**2.** Angular is my favorite Framework.
+
+**3.** Love Html and Css.
+
+**4.** Bitcoin investor and solidity learner.
+
+**4.** Defi is the present.
