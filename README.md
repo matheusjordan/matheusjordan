@@ -1,5 +1,8 @@
 ## Matheus Jordan - Fullstack and Mobile Developer - @matheusjordan.dev - Dev Arretado
 
+Welcome to my github profile!!! My name is Matheus Jordan, 22y, live in Campina Grande - PB, actually working in Startup and Freelancer projects.
+Made projects like:  Advertisement Mobile Application called Veron, Android and Ios native Apps with Crossplatforms Frameworks, Frontends for manage HFT bots, maintenance in react projects. Contact me to new projects. <3
+
  <div>
   <a href="https://github.com/matheusjordan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusjordan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
